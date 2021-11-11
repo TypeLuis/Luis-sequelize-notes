@@ -1,6 +1,7 @@
 # Luis-sequelize-notes
 
 
+
 ## _______________________________________________________
 
 <details><summary>C.R.U.D acronymn: </summary>
@@ -109,7 +110,8 @@
 
 - The modules we install is usually files with a group of functions (JavaScript, Python)
 
-- To import a module: require('modulePath')
+- To import a module
+    - require('modulePath')
 
 </p>
 </details>
@@ -308,7 +310,8 @@
 
 - The modules we install is usually files with a group of functions (JavaScript, Python)
 
-- To import a module: require('modulePath')
+- To import a module
+    - require('modulePath')
 
 </p>
 </details>
