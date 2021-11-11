@@ -1,6 +1,7 @@
 # Luis-sequelize-notes
 
 
+
 ## _______________________________________________________
 
 <details><summary>C.R.U.D acronymn: </summary>
@@ -114,63 +115,6 @@
 
 </p>
 </details>
-
-</p>
-</details>
-
-
-## _______________________________________________________
-
-<details><summary>How to use migrations to change columns/tables?</summary>
-<p>
-
-<details><summary>create a migration file by typing</summary>
-<p>
-
-    sequelize migration:generate --name=columnName
-</p>
-</details>
-
-
-<details><summary>in the migrations file type above line 11</summary>
-<p>
-
-<details><summary>how to rename column?</summary>
-<p>
-
-    await queryInterface.renameColumn("psql table", 'oldName', 'newName')
-</p>
-</details>
-
-<details><summary>how to add columns?</summary>
-<p>
-
-    await queryInterface.addColumn("psql table", 'Name', 'dataType')
-</p>
-</details>
-
-
-<details><summary>how to remove column?</summary>
-<p>
-
-    await queryInterface.removeColumn("psql table", 'columnName')
-</p>
-</details>
-
-</p>
-</details>
-
-
-<details><summary>after, migrate the file to database</summary>
-<p>
-
-    sequelize db:migrate
-</p>
-</details>
-
-
-
-
 
 </p>
 </details>
