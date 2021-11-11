@@ -107,7 +107,7 @@
 
 - A module is the file we use to write our code
 
-- The modules we install is usually files with a group of functions (JavaScript, Python)
+- The modules we install are usually files with a group of functions (JavaScript, Python)
 
 - To import a module
     - require('modulePath')
@@ -348,7 +348,7 @@
 
 - A module is the file we use to write our code
 
-- The modules we install is usually files with a group of functions (JavaScript, Python)
+- The modules we install are usually files with a group of functions (JavaScript, Python)
 
 - To import a module
     - require('modulePath')
