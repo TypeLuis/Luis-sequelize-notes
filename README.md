@@ -133,7 +133,7 @@
 <p>
 
 - create a migration file by typing:
-    - <p>sequelize migration:generate --name=columnName</p>
+    - <p>`sequelize migration:generate --name=columnName`</p>
 
 
 - in the migrations file type above line 11:
@@ -160,7 +160,7 @@
 <p></p>
 
 - after, migrate the file to database: 
-    - sequelize db:migrate
+    - `sequelize db:migrate`
 
 
 </p>
