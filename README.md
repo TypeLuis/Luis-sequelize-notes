@@ -230,7 +230,7 @@
 <p>
 
 - `npm init -y`
-- `npm i express pg sequelize rowdy-logger cors`
+- `npm i express pg sequelize rowdy-logger cors router esj`
 - add a `.gitignore` and add node_modules and or config to it
 - in your package.json add these to the scripts after "test"
 - <pre>
