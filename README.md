@@ -133,7 +133,7 @@
 <p>
 
 - create a migration file by typing:
-    - <p>`sequelize migration:generate --name=columnName`</p>
+    -  `sequelize migration:generate --name=columnName` 
 
 
 - in the migrations file type above line 11:
