@@ -96,7 +96,7 @@
 </details>
 
 
-<details><summary>npm install sequelize pg express rowdy-logger cors router esj</summary>
+<details><summary>npm install sequelize pg express rowdy-logger cors router ejs</summary>
 <p>
 
     - Install modules that only belongs to this project ("-g" not included)
@@ -230,7 +230,7 @@
 <p>
 
 - `npm init -y`
-- `npm i express pg sequelize rowdy-logger cors router esj`
+- `npm i express pg sequelize rowdy-logger cors router ejs`
 - add a `.gitignore` and add node_modules and or config to it
 - in your package.json add these to the scripts after "test"
 - <pre>
@@ -432,7 +432,7 @@
 
 ## __________
 
-<details><summary>esj</summary>
+<details><summary>ejs</summary>
 <p>
 
 
